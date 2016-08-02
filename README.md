@@ -1,2 +1,1 @@
-# CloudBookCode
-This contains the code samples and demos for the cloudbook
+# CloudBookCodeThis contains the code samples and demos for the book "Cloud Computing for Science and Engineering".   Most of these samples are Jupyter Notebooks.   If you do not have a copy of Jupyter you should download and install anaconda from Continuum Analytics [https://www.continuum.io/downloads](https://www.continuum.io/downloads ).  
